@@ -1,0 +1,7 @@
+spring:
+    application:
+        name: zero-jacoco-boot
+    profiles:
+        active: dev
+server:
+    port: 8080
